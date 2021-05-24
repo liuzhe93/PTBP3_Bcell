@@ -1,0 +1,15 @@
+GOTERM_CC_DIRECT-GO:0005622~intracellular	17.38576839
+GOTERM_MF_DIRECT-GO:0046872~metal ion binding	12.60646722
+GOTERM_BP_DIRECT-GO:0048265~response to pain	10.22618987
+GOTERM_MF_DIRECT-GO:0003676~nucleic acid binding	8.502853344
+GOTERM_BP_DIRECT-GO:0097477~lateral motor column neuron migration	7.350724242
+GOTERM_BP_DIRECT-GO:0006355~regulation of transcription, DNA-templated	6.172264163
+GOTERM_BP_DIRECT-GO:0021517~ventral spinal cord development	6.134073665
+GOTERM_MF_DIRECT-GO:0008270~zinc ion binding	6.039515612
+KEGG_PATHWAY-mmu04020:Calcium signaling pathway	5.838585621
+GOTERM_BP_DIRECT-GO:0006869~lipid transport	5.531031119
+KEGG_PATHWAY-mmu04080:Neuroactive ligand-receptor interaction	4.601702067
+KEGG_PATHWAY-mmu04151:PI3K-Akt signaling pathway	4.057636743
+GOTERM_MF_DIRECT-GO:0008236~serine-type peptidase activity	4.033595753
+GOTERM_BP_DIRECT-GO:0001657~ureteric bud development	3.414927144
+GOTERM_BP_DIRECT-GO:0021549~cerebellum development	3.358866856

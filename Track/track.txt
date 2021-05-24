@@ -1,0 +1,20 @@
+
+第一部分：RNA-seq
+track type=bigWig db=mm9 name="BM-PTBP3-WT-CJ3-RNA-seq" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/projects_cas/xuelab/WL_BM_projects/RNA-seq/CJ3.bw"
+track type=bigWig db=mm9 name="BM-PTBP3-KO-CJ5-RNA-seq" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/projects_cas/xuelab/WL_BM_projects/RNA-seq/CJ5.bw"
+
+
+第二部分：CLIP-seq
+（1）PTBP3 CLIP-seq in Bone Marrow b cell
+track type=bigWig db=mm9 name="BM-PTBP3-rep1-CLIP-seq" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/projects_cas/xuelab/WL_BM_projects/CLIP-seq/bm_rep1.bw"
+track type=bigWig db=mm9 name="BM-PTBP3-czk-CLIP-seq" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/projects_cas/xuelab/WL_BM_projects/CLIP-seq/bm_czk.bw"
+track type=bigWig db=mm9 name="BM-PTBP3-rumdup-czk-CLIP-seq" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/projects_cas/xuelab/WL_BM_projects/CLIP-seq/bm_czk.rmdup.bw"
+track type=bigWig db=mm9 name="BM-PTBP3-rumdup-rep1-CLIP-seq" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/projects_cas/xuelab/WL_BM_projects/CLIP-seq/bm_rep1.rmdup.bw"
+
+（2）PTBP3 CLIP-seq in Spleen b cell
+track type=bam name=Peaks_AddLps bigDataUrl="http://159.226.118.212/home/liuzhe/data/CLIP-seq_merge/peaks_AddLps.sort.bam"
+track type=bam name=Peaks_NoLps bigDataUrl="http://159.226.118.212/home/liuzhe/data/CLIP-seq_merge/peaks_NoLps.sort.bam"
+track type=bigWig db=mm9 name="AddLps_merge.pos" color=255,0,0 visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/data/CLIP-seq_merge/AddLps.pos.bw"
+track type=bigWig db=mm9 name="AddLps_merge.neg" color=0,0,255 visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/data/CLIP-seq_merge/AddLps.neg.bw"
+track type=bigWig db=mm9 name="NoLps_merge.pos" color=255,0,0 visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/data/CLIP-seq_merge/NoLps.pos.bw"
+track type=bigWig db=mm9 name="NoLps_merge.neg" color=0,0,255 visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/data/CLIP-seq_merge/NoLps.neg.bw"

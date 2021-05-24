@@ -1,0 +1,14 @@
+#RNA-seq
+#track type=bigWig db=mm9 name="CJ1-BM" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/otherProject/CJ_BM_RNA-seq/CJ1.bw"
+#track type=bigWig db=mm9 name="CJ2-BM" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/otherProject/CJ_BM_RNA-seq/CJ2.bw"
+track type=bigWig db=mm9 name="CJ3-BM-RNA-seq" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/otherProject/CJ_BM_RNA-seq/CJ3.bw"
+#track type=bigWig db=mm9 name="CJ4-BM" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/otherProject/CJ_BM_RNA-seq/CJ4.bw"
+track type=bigWig db=mm9 name="CJ5-BM-RNA-seq" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/otherProject/CJ_BM_RNA-seq/CJ5.bw"
+#track type=bigWig db=mm9 name="CJ6-BM" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/otherProject/CJ_BM_RNA-seq/CJ6.bw"
+
+#track type=bam name="CJ3_WT" bigDataUrl="http://159.226.118.212/home/liuzhe/otherProject/CJ_BM_RNA-seq/CJ3.sorted.bam"
+#track type=bam name="CJ5_KO" bigDataUrl="http://159.226.118.212/home/liuzhe/otherProject/CJ_BM_RNA-seq/CJ5.sorted.bam"
+
+#CLIP_seq
+track type=bigWig db=mm9 name="BM-PTBP3CLIP-seq" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/otherProject/WL_F_PTBP3_CLIP-seq/rep1/BM.bw"
+track type=bigWig db=mm9 name="BM-PTBP3CLIP-seq-CZK" visibility=2 bigDataUrl="http://159.226.118.212/home/liuzhe/otherProject/WL_F_PTBP3_CLIP-seq/BM_CZK/bm.bw"

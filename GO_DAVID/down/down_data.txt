@@ -1,0 +1,16 @@
+GOTERM_BP_DIRECT-GO:0042742~defense response to bacterium	10.84015304
+GOTERM_MF_DIRECT-GO:0003735~structural constituent of ribosome	8.096975813
+GOTERM_CC_DIRECT-GO:0022625~cytosolic large ribosomal subunit	5.822678292
+GOTERM_MF_DIRECT-GO:0003823~antigen binding	5.346081392
+GOTERM_BP_DIRECT-GO:0006412~translation	4.471592331
+KEGG_PATHWAY-mmu03010:Ribosome	4.362074061
+GOTERM_BP_DIRECT-GO:0006897~endocytosis	4.314060524
+GOTERM_CC_DIRECT-GO:0042571~immunoglobulin complex, circulating	3.989709986
+GOTERM_BP_DIRECT-GO:0050871~positive regulation of B cell activation	3.972453248
+GOTERM_BP_DIRECT-GO:0002181~cytoplasmic translation	3.930768709
+GOTERM_CC_DIRECT-GO:0005840~ribosome	3.916304125
+GOTERM_MF_DIRECT-GO:0034987~immunoglobulin receptor binding	3.794723323
+GOTERM_BP_DIRECT-GO:0006910~phagocytosis, recognition	3.775836748
+GOTERM_BP_DIRECT-GO:0006911~phagocytosis, engulfment	3.541577917
+KEGG_PATHWAY-mmu05034:Alcoholism	3.521479157
+GOTERM_BP_DIRECT-GO:0050766~positive regulation of phagocytosis	3.452605367

@@ -1,0 +1,39 @@
+
+library(pheatmap)
+x<-read.table("proteincoding.txt",sep="\t",header=T)
+row.names<-x$gene
+x<-x[,2:3]
+z<-as.matrix(x)
+pheatmap(z, cluster_row = FALSE, cluster_col = FALSE, scale="row")
+
+
+library(pheatmap)
+x<-read.table("miRNA.txt",sep="\t",header=T)
+row.names<-x$gene
+x<-x[,2:3]
+z<-as.matrix(x)
+pheatmap(z, cluster_row = FALSE, cluster_col = FALSE, scale="row")
+
+x<-read.table("miRNA.txt",sep="\t",header=T)
+row.names<-x$gene
+x<-x[,2:3]
+z<-as.matrix(x)
+pheatmap(z, cluster_row = FALSE, cluster_col = FALSE, scale="row")
+
+x<-read.table("snoRNA.txt",sep="\t",header=T)
+row.names<-x$gene
+x<-x[,2:3]
+z<-as.matrix(x)
+pheatmap(z, cluster_row = FALSE, cluster_col = FALSE, scale="row")
+
+x<-read.table("pseudogene.txt",sep="\t",header=T)
+row.names<-x$gene
+x<-x[,2:3]
+z<-as.matrix(x)
+pheatmap(z, cluster_row = FALSE, cluster_col = FALSE, scale="row")
+
+x<-read.table("lncRNA.txt",sep="\t",header=T)
+row.names<-x$gene
+x<-x[,2:3]
+z<-as.matrix(x)
+pheatmap(z, cluster_row = FALSE, cluster_col = FALSE, scale="row")
